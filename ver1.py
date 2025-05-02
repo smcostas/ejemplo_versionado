@@ -20,6 +20,7 @@ plt.title('Histograma de datos log-normales')
 plt.show()
 
 
-### aca estoy modificando? 
+###
 
+x = np.random.normal(mu, sigma, n)
 
