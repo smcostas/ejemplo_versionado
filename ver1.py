@@ -19,3 +19,7 @@ sns.histplot(x, bins=30, kde=True, color='blue', alpha=0.5)
 plt.title('Histograma de datos log-normales')
 plt.show()
 
+
+### aca estoy modificando? 
+
+
