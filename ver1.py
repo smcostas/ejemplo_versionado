@@ -6,9 +6,9 @@ import pandas as pd
 from random import random, seed
 import math
 import scipy.stats as stats
-### ejecuta lo que pedi
-# seed(1)
-# np.random.seed(1) # para reproducibilidad
+
+seed(1)
+
 
 mu = 0.5
 sigma = 0.5
